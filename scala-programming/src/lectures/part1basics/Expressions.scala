@@ -4,6 +4,7 @@ package lectures.part1basics
  * Created by Arunraja on May 9 2021
  */
 object Expressions extends App {
+
   val x = 2
   println(2 + 3 - 4)
   println(1 == x) // == != > >= < <=
@@ -48,5 +49,4 @@ object Expressions extends App {
   // The above one returns value of the last expression which is the if one
   // The right side is an expression
   // vals only visible inside the block
-
 }
